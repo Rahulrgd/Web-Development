@@ -1,11 +1,5 @@
 # FRONTEND PROJECTS 
 
-Projects are added frequently! ⚡
-
-Enjoy!
-
-If you like this repo, be sure to ⭐ it.
-
 ## [All projects link](https://frontendprojects.netlify.app/) 
 
 ## [Tutorial link](https://codingbatch.gumroad.com/l/frontendprojects)
